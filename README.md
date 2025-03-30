@@ -1,3 +1,4 @@
+![Header](./github-profile-header.png)
 - 👋 Hi, I’m @kydle711
 - 👀 I’m interested in mountain biking, rock climbing, woodworking, and cats.
 - 🌱 I’m currently learning Python, SQL, C and anything else programming related that my brain can handle.
