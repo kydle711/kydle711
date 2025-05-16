@@ -1,7 +1,7 @@
 ![Header](./github-profile-header.png)
 - 👋 Hi, I’m Kyle Fuller
-- 👀 I’m interested in mountain biking 🚵‍♀️ , rock climbing 🧗 , woodworking, and cats 🐈 
-- 💻  I’m currently learning Python 🐍 , SQL, C, arduino computer, electronics ⚡️, and anything else programming related that my brain can handle.
+- 👀 I’m interested in mountain biking 🚵‍♀️ , rock climbing 🧗 , and kayaking.
+- 💻  I’m currently learning Python 🐍 , SQL, C, arduino, electronics ⚡️, and anything else programming related.
 - 🖥️ I’m looking to collaborate on anything!
 - 📫 How to reach me: gitkyle711@gmail.com
 
